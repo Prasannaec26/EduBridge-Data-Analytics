@@ -1,7 +1,7 @@
  
 <html>
   <head>
-     <h1>EduBridge-Data-Analytics-Portfolio</h1>
+     <h1>EduBridge-Data-Analytics</h1>
   </head>
   <body>
      This repository contains all the Projects, Assignments and Challenges of data analytics, presented in the form of Jupyter Notebooks & ms word.
