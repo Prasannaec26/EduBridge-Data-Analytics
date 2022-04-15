@@ -32,11 +32,11 @@
     <a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/blob/main/Projects/Project%20-%201.xlsx"> <br />2) Excel </a>
   </body>
   <head>
-     <h2>Skills</h2>
+     <h2>Connect with me on these platforms:</h2>
   </head>
   <body>
      <ul>
-      <li>Python <br /> Data Analysis  <br /> Data Visualization <br />  Statistics</li>
+      <li> Linkedin : <a href="https://www.linkedin.com/in/g-prasanna-2b847a21b/" https://www.linkedin.com/g-prasanna </a></li>
      </ul>
   <body/> 
 </html>
