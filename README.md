@@ -1,7 +1,7 @@
- # EduBridge-Data-Analytics-Portfolio
+ 
 <html>
   <head>
-     <h2>projects</h2>
+     <h1>EduBridge-Data-Analytics-Portfolio</h1>
   </head>
   <body>
     <a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/blob/main/Projects/Student%20management%20system%20python%20project.ipynb"> <br />1) Student management system python project </a>
