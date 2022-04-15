@@ -13,6 +13,16 @@
      <ul>
       <li>Python : Python3, NumPy, Pandas, Seaborn, Matplotlib</li>
      </ul>
+  <head>
+     <h2>Skills</h2>
+  </head>
+  <body>
+     <ul>
+      <li>Python</li>  
+      <li>Data Analysis</li>  
+      <li>Data Visualization</li>  
+      <li>Statistics</li>
+     </ul>
   <body/>
   <head>
    <h2>Content</h2>
