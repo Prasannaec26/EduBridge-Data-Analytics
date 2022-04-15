@@ -36,8 +36,7 @@
   </head>
   <body>
      <ul>
-      <li> Linkedin : </li>
-     <a href="https://www.linkedin.com/in/g-prasanna-2b847a21b/" https://www.linkedin.com/g-prasanna </a>
+      <li> Linkedin : </li> <a href="https://www.linkedin.com/in/g-prasanna-2b847a21b/" https://www.linkedin.com/g-prasanna </a>
      </ul>
   <body/> 
 </html>
