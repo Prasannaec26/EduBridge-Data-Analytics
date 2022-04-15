@@ -25,7 +25,7 @@
      </ul>
   <body/>
   <head>
-   <h2>Content</h2>
+   <h2>Contents</h2>
   </head
   <body>
     <a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/blob/main/Projects/Student%20management%20system%20python%20project.ipynb"> <br />1) Student management system python project </a>
