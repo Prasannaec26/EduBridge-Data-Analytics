@@ -10,7 +10,9 @@
      <h2>Tools</h2>
   </head>
   <body>
-     Python : Python3, NumPy, Pandas, Seaborn, Matplotlib
+     <ul>
+      <li>Python : Python3, NumPy, Pandas, Seaborn, Matplotlib</li>
+     </ul>
   <body/>
   <head>
    <h2>Content</h2>
