@@ -37,6 +37,7 @@
   <body>
      <ul>
       <li> Linkedin :<a href="https://www.linkedin.com/in/g-prasanna-2b847a21b/"> https://www.linkedin.com/g-prasanna </a> </li> 
+      <li> Gmail :<a href="prasannaec26@gmail.com"> prasannaec26@gmail.com </a> </li>
      </ul>
   <body/> 
 </html>
