@@ -1,4 +1,4 @@
- # EduBridge-Data-Analytics
+ # EduBridge-Data-Analytics-Portfolio
 <html>
   <head>
      <h2>projects</h2>
