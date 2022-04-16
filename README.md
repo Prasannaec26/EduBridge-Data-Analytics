@@ -5,7 +5,7 @@
   </head>
   <body>
      <div style="background-color:green; color:white; padding:20px;">
-     This repository contains all the Projects, Assignments and Challenges of data analytics, presented in the form of Jupyter Notebooks & ms word.
+       This repository contains all the Projects, Assignments and Challenges of data analytics, presented in the form of Jupyter Notebooks & ms word.
      </div>
   <body/>
   <head>
