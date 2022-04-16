@@ -4,7 +4,7 @@
      <h1>EduBridge-Data-Analytics</h1>
   </head>
   <body>
-     <div style="background-color:blue; color:white; padding:100px;">
+     <div style="background-color:green; color:white; padding:100px;">
      This repository contains all the Projects, Assignments and Challenges of data analytics, presented in the form of Jupyter Notebooks & ms word.
      </div>
   <body/>
