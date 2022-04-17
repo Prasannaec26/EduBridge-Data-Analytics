@@ -3,7 +3,7 @@
   <head>
      <h1>EduBridge-Data-Analytics</h1>
   </head>
-  <body>
+  <body bgcolor='#000099'>
      This repository contains all the Projects, Assignments and Challenges of data analytics, presented in the form of Jupyter Notebooks & ms word.
   <body/>
   <head>
