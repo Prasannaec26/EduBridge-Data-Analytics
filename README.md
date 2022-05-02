@@ -30,11 +30,16 @@
    <h4>Exploratory data analysis in python</h4>
   </head
   <body>
-     <ol><li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Exploratory%20data%20analysis%20in%20python/Covid_Analysis"Covid Analysis </a></li>
-      <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Exploratory%20data%20analysis%20in%20python">Exploratory data analysis in python</a></li>
-      <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Simple%20Calculator">Simple Calculator </a></li>
+     <ol><li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Exploratory%20data%20analysis%20in%20python/Covid_Analysis">Covid Analysis </a></li>
+      <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Exploratory%20data%20analysis%20in%20python/Flipkart">Flipkart Mobile Sales</a></li>
+      <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Exploratory%20data%20analysis%20in%20python/IPL%20Analysis">IPL Data Analysis </a></li></ol>
+  </body>
+   <h4>Exploratory data analysis in R</h4>
+      <ol><li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Exploratory%20data%20analysis%20in%20python/Covid_Analysis">Covid Analysis </a></li>
+      <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Exploratory%20data%20analysis%20in%20python/Flipkart">Flipkart Mobile Sales</a></li>
+      <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Exploratory%20data%20analysis%20in%20python/IPL%20Analysis">IPL Data Analysis </a></li>
       <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/blob/main/Projects/Student%20management%20system%20python%20project.ipynb">Student management system python project </a></li>
-     <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Statistics">Statistics </a></li>
+      <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Statistics">Statistics </a></li></ol>
   </body>
   <head>
      <h2>Connect with me on these platforms:</h2>
