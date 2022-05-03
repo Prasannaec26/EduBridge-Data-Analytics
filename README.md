@@ -4,7 +4,7 @@
      <h1>EduBridge-Data-Analytics</h1>
   </head>
   <body >
-     This repository contains all the Projects, Assignments and Challenges of data analytics, presented in the form of Jupyter Notebooks & ms word. 
+     This repository contains all the Projects, Assignments and Challenges of data analytics, presented in the form of Jupyter Notebooks. 
   <body/>
   <head>
      <h2>Tools</h2>
@@ -26,7 +26,6 @@
   <body/>
   <head>
    <h2>Contents</h2>
-   <h3>Projects</h3>
    <h4>Exploratory data analysis in python</h4>
   </head
   <body>
