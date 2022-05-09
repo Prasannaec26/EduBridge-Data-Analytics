@@ -20,7 +20,8 @@
      <ul>
       <li>Python</li>  
       <li>Data Analysis</li>  
-      <li>Data Visualization</li>  
+      <li>Data Visualization</li>
+      <li>machine learning</li>
       <li>Statistics</li>
      </ul>
   <body/>
