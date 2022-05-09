@@ -39,7 +39,8 @@
       <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Exploratory%20data%20analysis%20in%20python/IPL%20Analysis">IPL Data Analysis </a></li></ol>
    <h4>Simple projects</h4> 
       <ol><li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Simple%20management%20system">Student management system </a></li>
-      <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Quiz%20Game"> Simple Quiz game </a></li></ol>
+      <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Quiz%20Game"> Simple Quiz game </a></li>
+      <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Simple%20Calculator"> Simple Calculator </a></li></ol>
   </body>
   <head>
      <h2>Connect with me on these platforms:</h2>
