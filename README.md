@@ -30,9 +30,10 @@
    <h4>Exploratory data analysis in python</h4>
   </head
   <body>
-     <ol><li><a href="[https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Exploratory%20data%20analysis%20in%20python/Covid_Analysis](https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/EDA%20Python/Covid%20Analysis)">Covid Analysis </a></li>
-      <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Exploratory%20data%20analysis%20in%20python/Flipkart">Flipkart Mobile Sales</a></li>
-      <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Exploratory%20data%20analysis%20in%20python/IPL%20Analysis">IPL Data Analysis </a></li></ol>
+     <ol><li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/EDA%20Python">Covid Analysis </a></li>
+      <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/EDA%20Python/Flipkart%20Sales">Flipkart Mobile Sales</a></li>
+      <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/EDA%20Python/IPL%20Analysis">IPL Data Analysis </a></li>
+      <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/EDA%20Python/Superstore%20Analysis">Superstore Analysis </a></li></</ol>
   </body>
    <h4>Exploratory data analysis in R</h4>
       <ol><li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Exploratory%20data%20analysis%20in%20python/Covid_Analysis">Superstore </a></li>
