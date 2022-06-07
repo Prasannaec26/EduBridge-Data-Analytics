@@ -42,6 +42,12 @@
       <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/EDA%20R/Flipkart%20R%20Analysis">Mobile Sales</a></li>
       </ol>
   </body>
+   <h4>Machine Learning</h4>
+  <body>
+     <ol>
+      <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/EDA%20R/Flipkart%20R%20Analysis">Mobile Sales</a></li>
+      </ol>
+  </body>
      <h4>Simple projects</h4>
   <body>
       <ol><li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Simple%20management%20system">Student management system </a></li>
