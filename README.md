@@ -45,7 +45,7 @@
    <h4>Machine Learning</h4>
   <body>
      <ol>
-      <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/EDA%20R/Flipkart%20R%20Analysis">Mobile Sales</a></li>
+      <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Machine%20Learning/Fraud%20Risk%20Detection">Fraud Risk Detection</a></li>
       </ol>
   </body>
      <h4>Simple projects</h4>
