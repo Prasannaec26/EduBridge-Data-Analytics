@@ -11,7 +11,7 @@
   </head>
   <body>
      <ul>
-      <li>Python : Python3, NumPy, Pandas, Seaborn, Matplotlib & Scikit-learn</li>
+      <li>Python : Python3, NumPy, Pandas, Seaborn, Matplotlib,Web Scrapping & Scikit-learn</li>
      </ul>
   <head>
      <h2>Skills</h2>
