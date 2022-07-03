@@ -44,6 +44,7 @@
       <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Machine%20Learning/Company%20Salary%20Prediction">Company Salar Prediction.ipynb</a></li>
       <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Machine%20Learning/Bagging%20%26%20Boosting">Bagging & Boosting</a></li>
       <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Machine%20Learning/Decision%20Tree%20Classifier">Decession Tree Classifier</a></li>
+      <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Machine%20Learning/ML%20Algorithms">ML models</a></li>
      </ol>
   </body>
    <h4>Web Scrapping & Wordcloud</h4>
