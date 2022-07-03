@@ -42,6 +42,7 @@
      <ol>
       <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Machine%20Learning/Acoustic%20Fire">Acoustic Fire Prediction</a></li>
       <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Machine%20Learning/Company%20Salary%20Prediction">Company Salar Prediction.ipynb</a></li>
+      <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Machine%20Learning/Bagging%20%26%20Boosting">Bagging & Boosting </a></li>
      </ol>
   </body>
    <h4>Web Scrapping & Wordcloud</h4>
