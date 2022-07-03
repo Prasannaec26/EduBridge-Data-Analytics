@@ -40,9 +40,9 @@
    <h4>Machine Learning</h4>
   <body>
      <ol>
-      <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/blob/main/Projects/Machine%20Learning/Acoustic%20Fire/Acoustic%20Fire%20%20Prediction.ipynb">Acoustic Fire Prediction</a></li>
-      <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/blob/main/Projects/Machine%20Learning/Company%20Salary%20Prediction/Company%20Salary%20Prediction.ipynb">Company Salar Prediction.ipynb</a></li>
-      </ol>
+      <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Machine%20Learning/Acoustic%20Fire">Acoustic Fire Prediction</a></li>
+      <li><a href="https://github.com/Prasannaec26/EduBridge-Data-Analytics/tree/main/Projects/Machine%20Learning/Company%20Salary%20Prediction">Company Salar Prediction.ipynb</a></li>
+     </ol>
   </body>
    <h4>Web Scrapping & Wordcloud</h4>
   <body>
